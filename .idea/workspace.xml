@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a99ce654-1c51-483c-891f-d534193aa18e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/demo-mvc-manager-bill/src/View/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-mvc-manager-bill/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/demo-mvc-manager-bill/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-mvc-manager-bill/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo-mvc-manager-bill/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-mvc-manager-bill/src/Controller/BillController.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo-mvc-manager-bill/src/Controller/BillController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-mvc-manager-bill/src/Model/BillModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo-mvc-manager-bill/src/Model/BillModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-mvc-manager-bill/src/Model/DBConnect.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo-mvc-manager-bill/src/Model/DBConnect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-mvc-manager-bill/src/View/bill/detail.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo-mvc-manager-bill/src/View/bill/detail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-mvc-manager-bill/src/View/bill/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo-mvc-manager-bill/src/View/bill/list.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/demo-mvc-manager-bill/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/demo-mvc-manager-bill" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/demo-mvc-manager-bill/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1csgp1yCmxr2J9KByyJnKs1vJZ6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../layout-demo" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a99ce654-1c51-483c-891f-d534193aa18e" name="Default Changelist" comment="" />
+      <created>1591322893800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591322893800</updated>
+      <workItem from="1591322895376" duration="206000" />
+      <workItem from="1591330913989" duration="1058000" />
+      <workItem from="1591331997976" duration="599000" />
+      <workItem from="1591578050455" duration="10747000" />
+      <workItem from="1591608156195" duration="3772000" />
+      <workItem from="1591665191595" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="490" y="159" width="424" height="490" key="FileChooserDialogImpl" timestamp="1591665220972">
+      <screen x="49" y="34" width="1317" height="734" />
+    </state>
+    <state x="490" y="159" width="424" height="490" key="FileChooserDialogImpl/49.34.1317.734@49.34.1317.734" timestamp="1591665220972" />
+    <state x="503" y="326" width="399" height="155" key="NewPhpFileDialog" timestamp="1591608264122">
+      <screen x="49" y="34" width="1317" height="734" />
+    </state>
+    <state x="503" y="326" width="399" height="155" key="NewPhpFileDialog/49.34.1317.734@49.34.1317.734" timestamp="1591608264122" />
+    <state x="370" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1591608313040">
+      <screen x="49" y="34" width="1317" height="734" />
+    </state>
+    <state x="370" y="89" width="672" height="678" key="search.everywhere.popup/49.34.1317.734@49.34.1317.734" timestamp="1591608313040" />
+  </component>
+</project>
